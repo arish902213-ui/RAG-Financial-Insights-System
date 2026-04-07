@@ -1,0 +1,9 @@
+streamlit==1.41.0
+pymupdf==1.25.1
+pandas==2.2.3
+numpy==1.26.4
+sentence-transformers==3.3.1
+scikit-learn==1.5.2
+faiss-cpu==1.9.0.post1
+plotly==5.24.1
+openai==1.58.1
